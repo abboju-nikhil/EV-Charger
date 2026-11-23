@@ -1,0 +1,255 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "503d239a-8438-410f-b7d5-9428eaf7ce81")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 91.44 29.845)
+		(size 48.895 34.925)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7240cb85-ba35-45da-9eac-c1217b8d0622")
+		(property "Sheetname" "02_CCM_PFC_and_LLC_Power"
+			(at 91.44 29.1334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_CCM_PFC_and_LLC_Power.kicad_sch"
+			(at 91.44 65.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "450W_Charger"
+				(path "/503d239a-8438-410f-b7d5-9428eaf7ce81"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.295 31.115)
+		(size 62.865 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "748925cf-3aea-43b1-998c-40853ab065ff")
+		(property "Sheetname" "04_Isolated_Sensing_and_GateDrive"
+			(at 201.295 30.4034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_Isolated_Sensing_and_GateDrive.kicad_sch"
+			(at 201.295 65.9896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "450W_Charger"
+				(path "/503d239a-8438-410f-b7d5-9428eaf7ce81"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 146.685 30.48)
+		(size 48.895 34.925)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "786e9f80-2fcf-4bf5-b8df-a3740b8c2675")
+		(property "Sheetname" "03_Secondary_SR_and_Output"
+			(at 146.685 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_Secondary_SR_and_Output.kicad_sch"
+			(at 146.685 65.9896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "450W_Charger"
+				(path "/503d239a-8438-410f-b7d5-9428eaf7ce81"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 27.94)
+		(size 57.15 37.465)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac595c57-ea0f-40b3-ad73-490560f06c19")
+		(property "Sheetname" "01_AC_Input_EMI_Bridge"
+			(at 27.94 27.2284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_AC_Input_EMI_Bridge.kicad_sch"
+			(at 27.94 65.9896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 27.94 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "450W_Charger"
+				(path "/503d239a-8438-410f-b7d5-9428eaf7ce81"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 28.575 74.93)
+		(size 60.325 37.465)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b52b8086-541c-41ce-92da-f732b0d25482")
+		(property "Sheetname" "05_TMS320F2800157_Controller"
+			(at 28.575 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_TMS320F2800157_Controller.kicad_sch"
+			(at 28.575 112.9796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "450W_Charger"
+				(path "/503d239a-8438-410f-b7d5-9428eaf7ce81"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
